@@ -1,5 +1,3 @@
-
-
 -- 
 -- create view `error_table` record the number of unsuccessful visits happened everyday
 -- 
