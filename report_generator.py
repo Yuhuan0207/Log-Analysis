@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from report_gen_helper import report_gen
 
 # def variables

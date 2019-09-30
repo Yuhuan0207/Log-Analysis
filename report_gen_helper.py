@@ -1,5 +1,5 @@
+#!/usr/bin/python3
 import psycopg2
-
 
 def report_gen(query, question):
     '''
